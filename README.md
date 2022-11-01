@@ -1,5 +1,6 @@
 <div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome%20SB %20Github!&fontSize=90" />
+
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Welcome%20SB%20Github!&fontSize=90" />
 </div>
 <div align=center>
 	<h3>✨ Tech Stack ✨</h3>
